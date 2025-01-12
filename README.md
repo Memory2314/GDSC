@@ -9,7 +9,7 @@
 - 默认不对未登录的状态做适配.
 - 新版本一旦正式发布, 就不再对旧版本做任何技术支持.
 
-| 正式版 (jsDelivr 源)                                                                              | 正式版 (GitHub 源)                                                                                                                                                |
+| 正式版 (jsDelivr 源)                                                                              | 正式版 (GitHub 源)                                                                                                                                                
 | ----------------------------------------------------------------------------------------------------- |
 | [安装](https://cdn.jsdelivr.net/gh/Memory2314/GDSC@master-cdn/dist/script.js) | [安装](https://raw.githubusercontent.com/Memory2314/GDSC/master/dist/script.js) |
 
