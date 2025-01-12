@@ -10,9 +10,9 @@
 - 新版本一旦正式发布, 就不再对旧版本做任何技术支持.
 
 **正式版 (jsDelivr 源)**
-[安装](https://cdn.jsdelivr.net/gh/Memory2314/GDSC@master/script.js)
+[安装](https://cdn.jsdelivr.net/gh/Memory2314/GDSC@master/GDSC.user.js)
 **正式版 (GitHub 源)**
-[安装](https://raw.githubusercontent.com/Memory2314/GDSC/master/script.js)
+[安装](https://raw.githubusercontent.com/Memory2314/GDSC/master/GDSC.user.js)
 
 ## 脚本管理器
 
