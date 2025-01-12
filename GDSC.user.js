@@ -13,15 +13,13 @@
 
     const intervalId = setInterval(function() {
         var video = document.getElementsByTagName('video')[0];
-
-        if (video) {
+        
+        var url = 'https://github.boki.moe/https://raw.githubusercontent.com/Memory2314/GDSC/main/blue_video.mp4';
+        if (video && video.src != url) {
             // 修改 video 的 src 属性
-            video.src = 'https://github.boki.moe/https://raw.githubusercontent.com/Memory2314/GDSC/main/blue_video.mp4';
-
-            // 如果需要立即播放视频，可以调用 play() 方法
+            video.src = url;
             video.play();
-
             console.log('视频源已更新');
         }
-    }, 2000);
+    }, 1000);
 })();
