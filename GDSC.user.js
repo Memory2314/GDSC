@@ -19,7 +19,7 @@
         }
 
         var video = document.getElementsByTagName('video')[0];
-        var url = 'https://github.boki.moe/https://raw.githubusercontent.com/Memory2314/GDSC/main/blue_video.mp4';
+        var url = 'https://github.boki.moe/https://raw.githubusercontent.com/Memory2314/GDSC/main/blue.mp4';
         if (video && video.src != url) {
             // 修改 video 的 src 属性
             video.src = url;
